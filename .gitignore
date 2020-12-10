@@ -1,0 +1,6 @@
+mysql-data/
+var/cache/*
+var/logs/*
+vendor/
+elastic.ini
+*.sqlite3

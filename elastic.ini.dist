@@ -1,0 +1,6 @@
+;extension=/opt/elastic/apm-agent-php/extensions/elastic_apm-20180731.so
+;elastic_apm.bootstrap_php_part_file=/opt/elastic/apm-agent-php/src/bootstrap_php_part.php
+elastic_apm.server_url=https://abc.apm.eu-central-1.aws.cloud.es.io
+elastic_apm.secret_token=abc
+elastic_apm.service_name=abc
+elastic_apm.environment=abc
